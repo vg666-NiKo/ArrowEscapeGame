@@ -132,9 +132,21 @@ ArrowEscapeGame/
 
 ## 游戏截图
 
-<!-- ![开始界面](screenshots/start.png) -->
-<!-- ![游戏界面](screenshots/game.png) -->
-<!-- ![通关界面](screenshots/win.png) -->
+### 开始界面
+
+![开始界面](start.png)
+
+### 游戏界面
+
+![游戏界面](game_screen.png)
+
+### 通关结果
+
+![通关结果](result.png)
+
+### 第四关游玩演示
+
+![第四关游玩演示](动画.gif)
 
 ## AIGC 使用说明
 
